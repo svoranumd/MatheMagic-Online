@@ -1,0 +1,1 @@
+Sides 4 6: Rectangle’s perimeter is 20.0 and area is 24.0
